@@ -3,7 +3,7 @@ public class LAB04
 {
     public static void main(String[] args)
     {
-        int b = 11;
+        int b = 10;
         System.out.println( --b + b++ + ++b);
         // part1 Result -> 9 and b -> 10
         // part2 Result -> 9 and b -> 10
